@@ -123,7 +123,7 @@ html {
 header {
   width: 100vw;
   height: 100vh;
-  background-image: url("../img/bg.png");
+  background-image: url("../img/pexels-andrei-tanase-3469505.jpg");
   background-position: bottom;
   background-attachment: fixed;
   background-size: cover;
@@ -252,7 +252,7 @@ section {
 .explore {
   width: 100%;
   height: 100vh;
-  background-image: url(../img/bg2.png);
+  background-image: url('..img/pexels-julius-silver-753639.jpg');
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -356,7 +356,7 @@ section {
 }
 
 #about_us {
-  background: url("");
+  background: url("..img/pexels-pixabay-210249.jpg");
   width: 100%;
   height: 630px;
   background-repeat: no-repeat;
@@ -749,10 +749,9 @@ body.dark{
   font-size: 2em;
   letter-spacing: 4px;
   overflow: hidden;
-  background: linear-gradient(45deg, #fc036b, #fff, #41031d);
+  background: red;
   background-repeat: no-repeat;
   background-size: 80%;
-  animation: animate 8s linear infinite;
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
